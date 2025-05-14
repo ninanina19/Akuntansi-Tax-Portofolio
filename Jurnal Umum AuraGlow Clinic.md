@@ -113,7 +113,7 @@ Contoh transaksi:
 - 16 Jan – Membeli perlengkapan secara kredit Rp 1.500.000
 - 30 Jan – Menerima pelunasan project sebesar Rp 7.000.000
 
-📄 *Selengkapnya tersedia dalam file* `0-transactions`
+📄 *Selengkapnya tersedia dalam file* [`0-transactions`](https://docs.google.com/spreadsheets/d/1ckyP_xieb5Qu530xqVkzQ1GrbzM2sSuGj95prl7jHyI/edit?gid=57503392#gid=57503392)
 
 ## 📘 Siklus Akuntansi
 1. **Jurnal Umum (General Journal)**  
