@@ -9,7 +9,10 @@ Berikut ini beberapa contoh laporan keuangan, jurnal umum, dan proyek terkait ak
 
 ## 📌 Tools
 - Microsoft Excel
-- Python + FPDF (untuk generate laporan)
-- Google SheetsJURNAL
+- Google Sheets
 
 Silakan cek masing-masing konten untuk detail studi kasus.
+
+---
+
+🔗 [**Kembali ke Halaman Utama**](https://github.com/ninanina19)  
