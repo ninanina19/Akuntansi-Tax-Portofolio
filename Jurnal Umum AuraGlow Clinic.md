@@ -140,25 +140,19 @@ Contoh transaksi:
 **Rp 11,483,333**
 
 ### 📊 Total Aset
-| Account             | Amount        |
-|---------------------|---------------|
-| Cash                | Rp 16,450,000 |
-| Service Revenue     | Rp 19,400,000 |
-| Salaries Expense    | Rp 300,000    |
-| Supplies Expense    | Rp 266,667    |
-| Owner's Drawing     | Rp 150,000    |
+(Akan disusun di neraca)
 
-📄 Full details available in `5-income-statement.pdf` and `6-balance-sheet.pdf`
+📄 *Selengkapnya tersedia dalam file* `5-income-statement.pdf` *dan* `6-balance-sheet.pdf`
 
 ## 📁 File & Dokumen
-| Nama File                   | Deskripsi                          |
-|----------------------------|--------------------------------------|
-| 1-journal-entries.xlsx      | General journal of all transactions  |
-| 2-ledger.xlsx               | Ledger per account                   |
-| 3-trial-balance.xlsx        | Trial Balance                        |
-| 4-adjusting-entries.xlsx    | Monthly adjusting entries            |
-| 5-income-statement.pdf      | Income statement for January         |
-| 6-balance-sheet.pdf         | Balance Sheet per January 31, 2017   |
+Semua laporan tersedia dalam format Excel dan PDF:
+
+- `1-journal-entries.xlsx`
+- `2-ledger.xlsx`
+- `3-trial-balance.xlsx`
+- `4-adjusting-entries.xlsx`
+- `5-income-statement.pdf`
+- `6-balance-sheet.pdf`
 
 ## ✍️ Catatan
 Studi kasus ini adalah hasil latihan pribadi untuk memperkuat kemampuan saya di bidang akuntansi. Semua perhitungan dan penyusunan laporan dilakukan secara manual sebagai bentuk pemahaman konsep dasar akuntansi.
