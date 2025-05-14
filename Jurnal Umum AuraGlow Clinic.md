@@ -142,8 +142,6 @@ Contoh transaksi:
 ### 📊 Total Aset
 (Akan disusun di neraca)
 
-📄 *Selengkapnya tersedia dalam file* `5-income-statement.pdf` *dan* `6-balance-sheet.pdf`
-
 ## 📁 File & Dokumen
 Semua laporan tersedia dalam format Excel dan PDF:
 
@@ -159,7 +157,6 @@ Studi kasus ini adalah hasil latihan pribadi untuk memperkuat kemampuan saya di 
 
 ---
 
-🔗 **Connect with me on LinkedIn**  
-*Feel free to reach out if you’d like to discuss accounting, finance, or administration!*
+🔗 [**Kembali ke halaman Akuntasi & Tax Portofolio**](https://github.com/ninanina19/Akuntansi-Tax-Portofolio/blob/main/README.md)  
 
 
