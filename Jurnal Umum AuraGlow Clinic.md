@@ -87,7 +87,7 @@ This is a self-initiated project to showcase my accounting practice and learning
 # 💇‍♀️ Salon AuraGlow – Accounting Case Study
 
 ## 📌 Case Overview
-**Salon AuraGlow** adalah usaha jasa kecantikan yang didirikan oleh Sally pada 1 Januari 2025. Studi kasus ini dibuat untuk menunjukan pemahaman saya dalam menyusun laporan keuangan dasar, meliputi:
+**Salon AuraGlow** adalah usaha jasa kecantikan yang didirikan oleh Sally pada 1 Januari 2024. Studi kasus ini dibuat untuk menunjukan pemahaman saya dalam menyusun laporan keuangan dasar, meliputi:
 
 - Jurnal Umum (General Journal)
 - Buku Besar (Ledger)
@@ -103,7 +103,7 @@ Untuk mensimulasikan siklus akuntansi sederhana dari usaha kecil menggunakan pen
 - Menyusun laporan keuangan bulanan
 - Menunjukkan kemampuan dalam memahami prinsip dasar akuntansi
 
-## 📅 Transaksi Bulan January 2017
+## 📅 Transaksi Bulan January 2024
 Berisi 15 transaksi yang meliputi penyetoran modal, pembelian perlengkapan/peralatan, pendapatan jasa, pembayaran beban, pengeluaran pribadi, dan transaksi piutang serta utang usaha.
 
 Contoh transaksi:
