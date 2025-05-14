@@ -137,7 +137,8 @@ Contoh transaksi:
 ## 📈 Hasil
 
 ### ✔️ Net Income (Laba Bersih)  
-**Rp 11,483,333**
+on progress....
+<!--**Rp 11,483,333**
 
 ### 📊 Total Aset
 (Akan disusun di neraca)
@@ -153,7 +154,7 @@ Semua laporan tersedia dalam format Excel dan PDF:
 - `6-balance-sheet.pdf`
 
 ## ✍️ Catatan
-Studi kasus ini adalah hasil latihan pribadi untuk memperkuat kemampuan saya di bidang akuntansi. Semua perhitungan dan penyusunan laporan dilakukan secara manual sebagai bentuk pemahaman konsep dasar akuntansi.
+Studi kasus ini adalah hasil latihan pribadi untuk memperkuat kemampuan saya di bidang akuntansi. Semua perhitungan dan penyusunan laporan dilakukan secara manual sebagai bentuk pemahaman konsep dasar akuntansi. -->
 
 ---
 
