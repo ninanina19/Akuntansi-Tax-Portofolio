@@ -84,7 +84,7 @@ This is a self-initiated project to showcase my accounting practice and learning
 
 -->
 
-# 💇‍♀️ Salon AuraGlow – Accounting Case Study
+# 💇‍♀️ Salon AuraGlow – Studi Kasus Akuntansi
 
 ## 📌 Case Overview
 **Salon AuraGlow** adalah usaha jasa kecantikan yang didirikan oleh Sally pada 1 Januari 2024. Studi kasus ini dibuat untuk menunjukan pemahaman saya dalam menyusun laporan keuangan dasar, meliputi:
@@ -113,5 +113,59 @@ Contoh transaksi:
 - 16 Jan – Membeli perlengkapan secara kredit Rp 1.500.000
 - 30 Jan – Menerima pelunasan project sebesar Rp 7.000.000
 
-📄 *Selengkapnya tersedia dalam file* '1-journal-entries.xlsx'
+📄 *Selengkapnya tersedia dalam file* `0-transactions`
+
+## 📘 Siklus Akuntansi
+1. **Jurnal Umum (General Journal)**  
+   Mencatat semua transaksi ke dalam jurnal dengan format standar (tanggal, akun, debit, kredit).
+
+2. **Buku Besar (Ledger)**  
+   Mengelompokkan transaksi per akun untuk melihat total saldo akun.
+
+3. **Neraca Saldo (Trial Balance)**  
+   Menyusun daftar saldo semua akun untuk memastikan keseimbangan antara debit dan kredit.
+
+4. **Jurnal Penyesuaian (Adjusting Entries)**  
+   Dilakukan untuk mencatat beban sewa per bulan dan koreksi piutang/hutang.
+
+5. **Laporan Laba Rugi (Income Statement)**  
+   Menyajikan total pendapatan dan beban untuk mengetahui laba/rugi usaha bulan Januari 2024.
+
+6. **Neraca (Balance Sheet)**  
+   Menyajikan posisi keuangan perusahaan per akhir bulan Januari (aset, kewajiban, dan ekuitas).
+
+## 📈 Hasil
+
+### ✔️ Net Income (Laba Bersih)  
+**Rp 11,483,333**
+
+### 📊 Total Aset
+| Account             | Amount        |
+|---------------------|---------------|
+| Cash                | Rp 16,450,000 |
+| Service Revenue     | Rp 19,400,000 |
+| Salaries Expense    | Rp 300,000    |
+| Supplies Expense    | Rp 266,667    |
+| Owner's Drawing     | Rp 150,000    |
+
+📄 Full details available in `5-income-statement.pdf` and `6-balance-sheet.pdf`
+
+## 📁 File & Dokumen
+| Nama File                   | Deskripsi                          |
+|----------------------------|--------------------------------------|
+| 1-journal-entries.xlsx      | General journal of all transactions  |
+| 2-ledger.xlsx               | Ledger per account                   |
+| 3-trial-balance.xlsx        | Trial Balance                        |
+| 4-adjusting-entries.xlsx    | Monthly adjusting entries            |
+| 5-income-statement.pdf      | Income statement for January         |
+| 6-balance-sheet.pdf         | Balance Sheet per January 31, 2017   |
+
+## ✍️ Catatan
+Studi kasus ini adalah hasil latihan pribadi untuk memperkuat kemampuan saya di bidang akuntansi. Semua perhitungan dan penyusunan laporan dilakukan secara manual sebagai bentuk pemahaman konsep dasar akuntansi.
+
+---
+
+🔗 **Connect with me on LinkedIn**  
+*Feel free to reach out if you’d like to discuss accounting, finance, or administration!*
+
 
