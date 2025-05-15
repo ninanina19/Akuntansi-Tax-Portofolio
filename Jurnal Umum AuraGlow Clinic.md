@@ -6,9 +6,11 @@
 
 - General Journal
 - Ledger
-- Trial Balance
+- Unadjusted Trial Balance
 - Adjusting Entries
+- Adjusted Trial Balance
 - Income Statement
+- Statement of Change in Equity
 - Balance Sheet
 
 ## 🧾 Objective
@@ -84,24 +86,16 @@ This is a self-initiated project to showcase my accounting practice and learning
 
 -->
 
-# 💇‍♀️ Salon AuraGlow – Studi Kasus Akuntansi
 
-## 📌 Case Overview
-**Salon AuraGlow** adalah usaha jasa kecantikan yang didirikan oleh Sally pada 1 Januari 2024. Studi kasus ini dibuat untuk menunjukan pemahaman saya dalam menyusun laporan keuangan dasar, meliputi:
+# Studi Kasus Akuntansi – Salon AuraGlow
 
-- Jurnal Umum (General Journal)
-- Buku Besar (Ledger)
-- Neraca Saldo (Trial Balance)
-- Jurnal Penyesuaian (Adjusting Entries)
-- Laporan Laba Rugi (Income Statement)
-- Neraca (Balance Sheet)
+Repositori ini berisi simulasi lengkap dari siklus akuntansi  untuk usaha fiktif bernama **Salon AuraGlow**. Studi kasus ini dibuat untuk memperkuat pemahaman tentang proses akuntansi mulai dari pencatatan transaksi hingga penyusunan laporan keuangan.
 
-## 🧾 Tujuan Studi Kasus
-Untuk mensimulasikan siklus akuntansi sederhana dari usaha kecil menggunakan pendekatan manual. Studi ini bertujuan untuk:
+## 🎯 Tujuan
 
-- Memahami proses pencatatan transaksi keuangan
-- Menyusun laporan keuangan bulanan
-- Menunjukkan kemampuan dalam memahami prinsip dasar akuntansi
+- Mensimulasikan siklus akuntansi bulanan secara manual
+- Memahami tahapan dalam proses akuntansi
+- Menunjukkan kemampuan dalam menyusun dan menganalisis laporan keuangan
 
 ## 📅 Transaksi Bulan January 2024
 Berisi 15 transaksi yang meliputi penyetoran modal, pembelian perlengkapan/peralatan, pendapatan jasa, pembayaran beban, pengeluaran pribadi, dan transaksi piutang serta utang usaha.
@@ -126,12 +120,18 @@ Contoh transaksi:
    Menyusun daftar saldo semua akun untuk memastikan keseimbangan antara debit dan kredit.
 
 4. **Jurnal Penyesuaian (Adjusting Entries)**  
-   Dilakukan untuk mencatat beban sewa per bulan dan koreksi piutang/hutang.
+   Mencatat akun-akun yang perlu disesuaikan di akhir bulan.
+   
+5. **Neraca Saldo setelah Penyesuaian (Adjusted Trial Balance)**  
+   Menyusun daftar saldo semua akun setelah dilakukan penyesuaian.
 
-5. **Laporan Laba Rugi (Income Statement)**  
+6. **Laporan Laba Rugi (Income Statement)**  
    Menyajikan total pendapatan dan beban untuk mengetahui laba/rugi usaha bulan Januari 2024.
 
-6. **Neraca (Balance Sheet)**  
+7. **Laporan Perubahan Modal (Statement of Change in Equity)**  
+   Menyajikan total modal per januari.   
+
+8. **Neraca (Balance Sheet)**  
    Menyajikan posisi keuangan perusahaan per akhir bulan Januari (aset, kewajiban, dan ekuitas).
 
 ## 📈 Hasil
