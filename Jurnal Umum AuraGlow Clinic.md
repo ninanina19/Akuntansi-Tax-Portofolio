@@ -183,7 +183,9 @@ Contoh transaksi:
 - 16 Jan – Membeli perlengkapan secara kredit Rp 1.500.000
 - 30 Jan – Menerima pelunasan project sebesar Rp 7.000.000
 
-📄 *Selengkapnya tersedia dalam file* [`0-transactions`](https://docs.google.com/spreadsheets/d/1ckyP_xieb5Qu530xqVkzQ1GrbzM2sSuGj95prl7jHyI/edit?gid=57503392#gid=57503392)
+📄 Selengkapnya tersedia dalam file [`0-transactions`](https://docs.google.com/spreadsheets/d/1ckyP_xieb5Qu530xqVkzQ1GrbzM2sSuGj95prl7jHyI/edit?gid=57503392#gid=57503392)
+
+💡 *Tip: Tekan Ctrl + klik (atau Cmd + klik di Mac) untuk membuka tautan di tab baru.*
 
 ## 🔄 Siklus Akuntansi
 
@@ -206,6 +208,8 @@ Seluruh transaksi dan penyesuaian dicatat dengan teliti untuk menghasilkan lapor
 
 ## 📁 File dan Dokumen
 
+💡 *Tip: Tekan Ctrl + klik (atau Cmd + klik di Mac) untuk membuka tautan di tab baru.*
+
 - [`1-general-journal`](https://docs.google.com/spreadsheets/d/1ckyP_xieb5Qu530xqVkzQ1GrbzM2sSuGj95prl7jHyI/edit?gid=1958299416#gid=1958299416) – berisi pencatatan transaksi harian 
 - [`2-ledger`](https://docs.google.com/spreadsheets/d/1ckyP_xieb5Qu530xqVkzQ1GrbzM2sSuGj95prl7jHyI/edit?gid=2116512178#gid=2116512178) – berisi semua ledger akun 
 - [`3-trial-balance`](https://docs.google.com/spreadsheets/d/1ckyP_xieb5Qu530xqVkzQ1GrbzM2sSuGj95prl7jHyI/edit?gid=923898971#gid=923898971) – menampilkan neraca saldo
@@ -222,7 +226,7 @@ Seluruh transaksi dan penyesuaian dicatat dengan teliti untuk menghasilkan lapor
 
 - Studi kasus ini dibuat sepenuhnya secara manual untuk memperkuat pemahaman dasar akuntansi
 - Penyesuaian dilakukan berdasarkan asumsi sederhana seperti penyusutan selama 3 tahun
-- Tidak digunakan software akuntansi dalam proses ini
+- Tidak menggunakan software akuntansi dalam proses ini
 
 
 ---
