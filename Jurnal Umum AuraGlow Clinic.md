@@ -159,7 +159,7 @@ Studi kasus ini adalah hasil latihan pribadi untuk memperkuat kemampuan saya di 
 ---
 # Portofolio Akuntansi: Studi Kasus Salon AuraGlow
 
-## 🧾 Gambaran Umum
+## 📌 Gambaran Umum
 
 Salon AuraGlow adalah usaha jasa salon kecantikan yang didirikan oleh Sally pada tanggal 1 Januari 2024. Studi kasus ini dibuat untuk mensimulasikan siklus akuntansi satu bulan penuh secara manual, dimulai dari transaksi hingga penyusunan laporan keuangan. Seluruh proses mengikuti prinsip dasar akuntansi dan ditujukan untuk memperlihatkan pemahaman akuntansi praktis untuk usaha kecil.
 
