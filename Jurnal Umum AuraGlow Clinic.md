@@ -194,7 +194,7 @@ Contoh transaksi:
 5. **Neraca Saldo Setelah Penyesuaian (Adjusted Trial Balance)**
 6. **Laporan Keuangan (Financial Statements)**
    - Income Statement (Laporan Laba Rugi)
-   - Statement of Owner’s Equity (Laporan Perubahan Modal)
+   - Statement of Changes in Equity (Laporan Perubahan Modal)
    - Balance Sheet (Neraca)
    - Cash Flow Statement (Laporan Arus Kas)
 7. **Penutupan Akun (Closing Entries)**
@@ -212,7 +212,7 @@ Seluruh transaksi dan penyesuaian dicatat dengan teliti untuk menghasilkan lapor
 - [`4-adjusting-entries`](https://docs.google.com/spreadsheets/d/1ckyP_xieb5Qu530xqVkzQ1GrbzM2sSuGj95prl7jHyI/edit?gid=1657090313#gid=1657090313) – berisi jurnal penyesuaian
 - [`5-adjusted-trial-balance`](https://docs.google.com/spreadsheets/d/1ckyP_xieb5Qu530xqVkzQ1GrbzM2sSuGj95prl7jHyI/edit?gid=2126887101#gid=2126887101) – berisi neraca saldo setelah penyesuaian
 - [`6-income-statement`](https://docs.google.com/spreadsheets/d/1ckyP_xieb5Qu530xqVkzQ1GrbzM2sSuGj95prl7jHyI/edit?gid=1726293988#gid=1726293988) – berisi laporan laba/rugi
-- [`7-statement-of-change-in-equity`](https://docs.google.com/spreadsheets/d/1ckyP_xieb5Qu530xqVkzQ1GrbzM2sSuGj95prl7jHyI/edit?gid=1682229654#gid=1682229654) – menampilkan laporan perubahan modal
+- [`7-statement-of-changes-in-equity`](https://docs.google.com/spreadsheets/d/1ckyP_xieb5Qu530xqVkzQ1GrbzM2sSuGj95prl7jHyI/edit?gid=1682229654#gid=1682229654) – menampilkan laporan perubahan modal
 - [`8-balence-sheet`](https://docs.google.com/spreadsheets/d/1ckyP_xieb5Qu530xqVkzQ1GrbzM2sSuGj95prl7jHyI/edit?gid=779561730#gid=779561730) – berisi neraca keuangan
 - [`9-cash-flow-statement`]() – berisi laporan arus kas
 - [`10-closing-entries`]() – menampilkan jurnal penutup
@@ -224,10 +224,11 @@ Seluruh transaksi dan penyesuaian dicatat dengan teliti untuk menghasilkan lapor
 - Penyesuaian dilakukan berdasarkan asumsi sederhana seperti penyusutan selama 3 tahun
 - Tidak digunakan software akuntansi dalam proses ini
 
+
 ---
 
 
 
-🔗 [**Kembali ke halaman Akuntasi & Tax Portofolio**](https://github.com/ninanina19/Akuntansi-Tax-Portofolio/blob/main/README.md)  
+## 🔗 [**Kembali ke halaman Akuntasi & Tax Portofolio**](https://github.com/ninanina19/Akuntansi-Tax-Portofolio/blob/main/README.md)  
 
 
