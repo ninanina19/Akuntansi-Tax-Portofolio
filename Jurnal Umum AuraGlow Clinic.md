@@ -215,8 +215,8 @@ Seluruh transaksi dan penyesuaian dicatat dengan teliti untuk menghasilkan lapor
 - [`7-statement-of-changes-in-equity`](https://docs.google.com/spreadsheets/d/1ckyP_xieb5Qu530xqVkzQ1GrbzM2sSuGj95prl7jHyI/edit?gid=1682229654#gid=1682229654) – menampilkan laporan perubahan modal
 - [`8-balence-sheet`](https://docs.google.com/spreadsheets/d/1ckyP_xieb5Qu530xqVkzQ1GrbzM2sSuGj95prl7jHyI/edit?gid=779561730#gid=779561730) – berisi neraca keuangan
 - [`9-cash-flow-statement`](https://docs.google.com/spreadsheets/d/1ckyP_xieb5Qu530xqVkzQ1GrbzM2sSuGj95prl7jHyI/edit?gid=1301442037#gid=1301442037) – berisi laporan arus kas
-- [`10-closing-entries`]() – menampilkan jurnal penutup
-- [`11-post-closing-trial-balance`]() – berisi neraca saldo setelah penutupan
+- [`10-closing-entries`](https://docs.google.com/spreadsheets/d/1ckyP_xieb5Qu530xqVkzQ1GrbzM2sSuGj95prl7jHyI/edit?gid=1744860834#gid=1744860834) – menampilkan jurnal penutup
+- [`11-post-closing-trial-balance`](https://docs.google.com/spreadsheets/d/1ckyP_xieb5Qu530xqVkzQ1GrbzM2sSuGj95prl7jHyI/edit?gid=1650136467#gid=1650136467) – berisi neraca saldo setelah penutupan
 
 ## 📝 Catatan
 
