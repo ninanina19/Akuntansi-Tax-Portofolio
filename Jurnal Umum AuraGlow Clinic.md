@@ -86,7 +86,7 @@ This is a self-initiated project to showcase my accounting practice and learning
 
 -->
 
-
+<!--
 # Studi Kasus Akuntansi – Salon AuraGlow
 
 Repositori ini berisi simulasi lengkap dari siklus akuntansi  untuk usaha fiktif bernama **Salon AuraGlow**. Studi kasus ini dibuat untuk memperkuat pemahaman tentang proses akuntansi mulai dari pencatatan transaksi hingga penyusunan laporan keuangan.
@@ -138,7 +138,7 @@ Contoh transaksi:
 
 ### ✔️ Net Income (Laba Bersih)  
 on progress....
-<!--**Rp 11,483,333**
+**Rp 11,483,333**
 
 ### 📊 Total Aset
 (Akan disusun di neraca)
@@ -157,6 +157,76 @@ Semua laporan tersedia dalam format Excel dan PDF:
 Studi kasus ini adalah hasil latihan pribadi untuk memperkuat kemampuan saya di bidang akuntansi. Semua perhitungan dan penyusunan laporan dilakukan secara manual sebagai bentuk pemahaman konsep dasar akuntansi. -->
 
 ---
+# Portofolio Akuntansi: Studi Kasus Salon AuraGlow
+
+## 🧾 Gambaran Umum
+
+Salon AuraGlow adalah usaha jasa salon kecantikan yang didirikan oleh Sally pada tanggal 1 Januari 2024. Studi kasus ini dibuat untuk mensimulasikan siklus akuntansi satu bulan penuh secara manual, dimulai dari transaksi hingga penyusunan laporan keuangan. Seluruh proses mengikuti prinsip dasar akuntansi dan ditujukan untuk memperlihatkan pemahaman akuntansi praktis untuk usaha kecil.
+
+## 🎯 Tujuan
+
+- Mempelajari dan mempraktikkan siklus akuntansi manual
+- Menyusun jurnal umum dari transaksi harian
+- Membuat buku besar untuk tiap akun
+- Menyusun neraca saldo dan penyesuaian
+- Menyusun laporan keuangan bulanan
+- Mendokumentasikan proses dan hasil ke dalam portofolio
+
+## 📆 Transaksi Bulan Januari 2024
+
+Terdapat 15 transaksi yang dicatat selama bulan Januari 2024, termasuk penyetoran modal, pembelian aset, pendapatan jasa, dan pembayaran beban.
+
+Contoh transaksi:
+
+- 01 Jan – Penyetoran modal awal sebesar Rp 10.000.000
+- 06 Jan – Menerima project jasa senilai Rp 10.000.000, baru diterima Rp 3.000.000 secara tunai
+- 16 Jan – Membeli perlengkapan secara kredit Rp 1.500.000
+- 30 Jan – Menerima pelunasan project sebesar Rp 7.000.000
+
+📄 *Selengkapnya tersedia dalam file* [`0-transactions`](https://docs.google.com/spreadsheets/d/1ckyP_xieb5Qu530xqVkzQ1GrbzM2sSuGj95prl7jHyI/edit?gid=57503392#gid=57503392)
+
+## 🔄 Siklus Akuntansi
+
+1. **Pencatatan Jurnal Umum (General Journal)**
+2. **Posting ke Buku Besar (Ledger)**
+3. **Penyusunan Neraca Saldo (Trial Balance)**
+4. **Jurnal Penyesuaian (Adjusting Entries)**
+5. **Neraca Saldo Setelah Penyesuaian (Adjusted Trial Balance)**
+6. **Laporan Keuangan (Financial Statements)**
+   - Income Statement (Laporan Laba Rugi)
+   - Statement of Owner’s Equity (Laporan Perubahan Modal)
+   - Balance Sheet (Neraca)
+   - Cash Flow Statement (Laporan Arus Kas)
+7. **Penutupan Akun (Closing Entries)**
+8. **Neraca Saldo Setelah Penutupan (Post-Closing Trial Balance)**
+
+## 📊 Hasil
+
+Seluruh transaksi dan penyesuaian dicatat dengan teliti untuk menghasilkan laporan keuangan yang akurat. Pada akhir Januari 2025, laporan keuangan menunjukkan posisi keuangan yang sehat dengan total aset yang seimbang terhadap total kewajiban dan ekuitas.
+
+## 📁 File dan Dokumen
+
+- [`1-general-journal`](https://docs.google.com/spreadsheets/d/1ckyP_xieb5Qu530xqVkzQ1GrbzM2sSuGj95prl7jHyI/edit?gid=1958299416#gid=1958299416) – berisi pencatatan transaksi harian 
+- [`2-ledger`](https://docs.google.com/spreadsheets/d/1ckyP_xieb5Qu530xqVkzQ1GrbzM2sSuGj95prl7jHyI/edit?gid=2116512178#gid=2116512178) – berisi semua ledger akun 
+- [`3-trial-balance`](https://docs.google.com/spreadsheets/d/1ckyP_xieb5Qu530xqVkzQ1GrbzM2sSuGj95prl7jHyI/edit?gid=923898971#gid=923898971) – menampilkan neraca saldo
+- [`4-adjusting-entries`](https://docs.google.com/spreadsheets/d/1ckyP_xieb5Qu530xqVkzQ1GrbzM2sSuGj95prl7jHyI/edit?gid=1657090313#gid=1657090313) – berisi jurnal penyesuaian
+- [`5-adjusted-trial-balance`](https://docs.google.com/spreadsheets/d/1ckyP_xieb5Qu530xqVkzQ1GrbzM2sSuGj95prl7jHyI/edit?gid=2126887101#gid=2126887101) – berisi neraca saldo setelah penyesuaian
+- [`6-income-statement`](https://docs.google.com/spreadsheets/d/1ckyP_xieb5Qu530xqVkzQ1GrbzM2sSuGj95prl7jHyI/edit?gid=1726293988#gid=1726293988) – berisi laporan laba/rugi
+- [`7-statement-of-change-in-equity`](https://docs.google.com/spreadsheets/d/1ckyP_xieb5Qu530xqVkzQ1GrbzM2sSuGj95prl7jHyI/edit?gid=1682229654#gid=1682229654) – menampilkan laporan perubahan modal
+- [`8-balence-sheet`](https://docs.google.com/spreadsheets/d/1ckyP_xieb5Qu530xqVkzQ1GrbzM2sSuGj95prl7jHyI/edit?gid=779561730#gid=779561730) – berisi neraca keuangan
+- [`9-cash-flow-statement`]() – berisi laporan arus kas
+- [`10-closing-entries`]() – menampilkan jurnal penutup
+- [`11-post-closing-trial-balance`]() – berisi neraca saldo setelah penutupan
+
+## 📝 Catatan
+
+- Studi kasus ini dibuat sepenuhnya secara manual untuk memperkuat pemahaman dasar akuntansi
+- Penyesuaian dilakukan berdasarkan asumsi sederhana seperti penyusutan selama 3 tahun
+- Tidak digunakan software akuntansi dalam proses ini
+
+---
+
+
 
 🔗 [**Kembali ke halaman Akuntasi & Tax Portofolio**](https://github.com/ninanina19/Akuntansi-Tax-Portofolio/blob/main/README.md)  
 
