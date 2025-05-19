@@ -10,7 +10,7 @@ Halaman ini berisi berbagai contoh proyek terkait akuntansi dan perpajakan, sepe
 - [AuraGlow Salon - Studi Kasus Akuntansi](https://github.com/ninanina19/Akuntansi-Tax-Portofolio/blob/main/AuraGlow%20Salon.md)
 - Simulasi PPh Final UMKM
 
-## 📌 Tools
+## 🛠️ Tools
 - Microsoft Excel
 - Google Sheets
 
