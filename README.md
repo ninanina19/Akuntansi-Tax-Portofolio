@@ -1,7 +1,7 @@
 # Portofolio Akuntansi & Perpajakan
 
-Selamat datang di portofolio saya!  
-Berikut ini beberapa contoh laporan keuangan, jurnal umum, dan proyek terkait akuntansi serta pajak.
+Selamat datang di portofolio saya!
+Halaman ini berisi berbagai contoh proyek terkait akuntansi dan perpajakan, seperti jurnal umum, laporan keuangan, dan studi kasus sederhana yang saya kerjakan untuk mengasah keterampilan akuntansi saya.
 
 ## 📁 Konten
 
