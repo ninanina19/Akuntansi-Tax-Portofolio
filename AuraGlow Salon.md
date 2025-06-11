@@ -161,7 +161,7 @@ Studi kasus ini adalah hasil latihan pribadi untuk memperkuat kemampuan saya di 
 
 ## 📌 Gambaran Umum
 
-Salon AuraGlow adalah usaha jasa salon kecantikan yang didirikan oleh Sally pada tanggal 1 Januari 2024. Studi kasus ini dibuat untuk mensimulasikan siklus akuntansi satu bulan penuh secara manual, dimulai dari transaksi hingga penyusunan laporan keuangan. Seluruh proses mengikuti prinsip dasar akuntansi dan ditujukan untuk memperlihatkan pemahaman akuntansi praktis untuk usaha kecil.
+Salon AuraGlow adalah sebuah usaha salon kecantikan yang didirikan oleh Sally pada tanggal 1 Januari 2024. Studi kasus ini dibuat untuk menyimulasikan siklus akuntansi selama satu bulan penuh secara manual, mulai dari pencatatan transaksi hingga penyusunan laporan keuangan. Seluruh proses mengikuti prinsip dasar akuntansi dan bertujuan untuk menunjukkan pemahaman saya dalam menerapkan akuntansi secara langsung pada usaha kecil
 
 ## 🎯 Tujuan
 
@@ -204,7 +204,7 @@ Contoh transaksi:
 
 ## 📊 Hasil
 
-Seluruh transaksi dan penyesuaian dicatat dengan teliti untuk menghasilkan laporan keuangan yang akurat. Pada akhir Januari 2025, laporan keuangan menunjukkan posisi keuangan yang sehat dengan total aset yang seimbang terhadap total kewajiban dan ekuitas.
+Seluruh transaksi dan penyesuaian dicatat dengan teliti untuk menghasilkan laporan keuangan yang akurat. Pada akhir Januari 2024, laporan keuangan menunjukkan posisi keuangan yang sehat dengan total aset yang seimbang terhadap total kewajiban dan ekuitas.
 
 ## 📁 File dan Dokumen
 
