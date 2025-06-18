@@ -55,4 +55,9 @@ Berikut ini adalah bukti visual (screenshot) dari proses yang saya lakukan selam
   - [Penyesuaian Asuransi](screenshots/beban_dan_akhir_bulan/beban_asuransi.png)
   - [Rekonsiliasi PPN](screenshots/beban_dan_akhir_bulan/rekonsiliasi_ppn.png)
 
+---
+
+
+
+## 🔗 [**Kembali ke halaman Akuntasi & Tax Portofolio**](https://github.com/ninanina19/Akuntansi-Tax-Portofolio/blob/main/README.md)  
 
