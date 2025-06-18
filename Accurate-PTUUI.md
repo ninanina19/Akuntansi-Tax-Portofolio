@@ -36,18 +36,24 @@ Berikut ini adalah bukti visual (screenshot) dari proses yang saya lakukan selam
 - **Transaksi Pembelian**
   - [Permintaan Barang (PR)](screenshots/pembelian/permintaan_barang.png)
   - [Pemesanan Pembelian (PO)](screenshots/pembelian/po_asri_artistik.png)
-  - [
-  - [Penerimaan & Faktur Pembelian](screenshots/goods_received.png)
+  - [Penerimaan & Faktur Pembelian](screenshots/pembelian/faktur_pembelian.png)
+  - [Retur Barang](screenshots/pembelian/retur_pembelian.png)
+  - [Pembelian Aset Tetap](screenshots/pembelian/pembelian_aset_tetap.png)
 
 - **Transaksi Penjualan**
-  - [Penjualan Tunai & Kredit](screenshots/sales_entry.png)
-  - [Pengiriman Barang](screenshots/delivery.png)
-  - [Penawaran & Paket Promo](screenshots/sales_promo.png)
-
+  - [Penawaran Penjualan](screenshots/penjualan/penawaran_penjualan.png)
+  - [Pesanan Penjualan](screenshots/penjualan/pesanan_penjualan.png)
+  - [Pengiriman Barang](screenshots/penjualan/pengiriman_barang.png)
+  - [Faktur Penjualan](screenshots/penjualan/faktur_penjualan.png)
+  - [Pembayaran](screenshots/penjualan/pembayaran_tunai.png)
+  - [Paket Promo](screenshots/penjualan/paket_januari.png)
+ 
+    
 - **Beban Operasional & Proses Akhir Bulan**
-  - [Pengakuan Beban & Barang Rusak](screenshots/expense_entry.png)
-  - [Rekonsiliasi PPN & Laporan](screenshots/ppn_reconciliation.png)
-  - [Proses Akhir Bulan](screenshots/month_end_process.png)
+  - [Beban Operasional](screenshots/beban_dan_akhir_bulan/biaya_listrik_air.png)
+  - [Pengakuan Beban & Barang Rusak](screenshots/beban_dan_akhir_bulan/bban_barang_rusak.png)
+  - [Penyesuaian Asuransi](screenshots/beban_dan_akhir_bulan/beban_asuransi.png)
+  - [Rekonsiliasi PPN](screenshots/beban_dan_akhir_bulan/rekonsiliasi_ppn.png)
 
 
 - [`1-Setup Awal Sistem`](screenshots/setup-awal)
