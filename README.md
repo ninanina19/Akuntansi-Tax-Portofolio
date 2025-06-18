@@ -15,6 +15,7 @@ Halaman ini berisi berbagai contoh proyek terkait akuntansi dan perpajakan, sepe
 ## 🛠️ Tools
 - Microsoft Excel
 - Google Sheets
+- Accurate
 
 Silakan cek masing-masing konten untuk detail studi kasus.
 
