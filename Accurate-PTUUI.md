@@ -56,7 +56,3 @@ Berikut ini adalah bukti visual (screenshot) dari proses yang saya lakukan selam
   - [Rekonsiliasi PPN](screenshots/beban_dan_akhir_bulan/rekonsiliasi_ppn.png)
 
 
-- [`1-Setup Awal Sistem`](screenshots/setup-awal)
-- [`2-Transaksi Pembelian`]()
-- [`3-Transaksi Penjualan`]()
-- [`4-Beban Operasional & Akhir Bulan`]()
