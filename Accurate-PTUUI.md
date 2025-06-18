@@ -50,10 +50,10 @@ Berikut ini adalah bukti visual (screenshot) dari proses yang saya lakukan selam
  
     
 - **Beban Operasional & Proses Akhir Bulan**
-  - [Beban Operasional](screenshots/beban_dan_akhir_bulan/biaya_listrik_air.png)
-  - [Pengakuan Beban & Barang Rusak](screenshots/beban_dan_akhir_bulan/bban_barang_rusak.png)
-  - [Penyesuaian Asuransi](screenshots/beban_dan_akhir_bulan/beban_asuransi.png)
-  - [Rekonsiliasi PPN](screenshots/beban_dan_akhir_bulan/rekonsiliasi_ppn.png)
+  - [Beban Operasional](screenshots/beban_dan_akhir-bulan/biaya_listrik_air.png)
+  - [Pengakuan Beban & Barang Rusak](screenshots/beban_dan_akhir-bulan/bban_barang_rusak.png)
+  - [Penyesuaian Asuransi](screenshots/beban_dan_akhir-bulan/beban_asuransi.png)
+  - [Rekonsiliasi PPN](screenshots/beban_dan_akhir-bulan/rekonsiliasi_ppn.png)
  
 
 
