@@ -8,6 +8,7 @@ Halaman ini berisi berbagai contoh proyek terkait akuntansi dan perpajakan, sepe
 💡 *Tip: Tekan Ctrl + klik (atau Cmd + klik di Mac) untuk membuka tautan di tab baru.*
 
 - [AuraGlow Salon - Studi Kasus Akuntansi](https://github.com/ninanina19/Akuntansi-Tax-Portofolio/blob/main/AuraGlow%20Salon.md)
+- [Penggunaan Software Akuntansi Accurate - Studi Kasus PT UUI](https://github.com/ninanina19/Akuntansi-Tax-Portofolio/blob/main/Accurate-PTUUI.md) 
 - PT YummyBabe Sehat Sentosa *(On Progress..)*
 - ...
 
