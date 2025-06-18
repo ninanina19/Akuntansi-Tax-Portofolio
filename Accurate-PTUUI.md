@@ -54,6 +54,8 @@ Berikut ini adalah bukti visual (screenshot) dari proses yang saya lakukan selam
   - [Pengakuan Beban & Barang Rusak](screenshots/beban_dan_akhir_bulan/bban_barang_rusak.png)
   - [Penyesuaian Asuransi](screenshots/beban_dan_akhir_bulan/beban_asuransi.png)
   - [Rekonsiliasi PPN](screenshots/beban_dan_akhir_bulan/rekonsiliasi_ppn.png)
+ 
+
 
 ---
 
