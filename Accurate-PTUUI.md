@@ -28,12 +28,15 @@ Berikut ini adalah bukti visual (screenshot) dari proses yang saya lakukan selam
 💡 *Tip: Tekan Ctrl + klik (atau Cmd + klik di Mac) untuk membuka tautan di tab baru.*
 
 - **Setup Sistem**
-  - [Buat Database](screenshots/buat_database.png)
-  - [Impor Data Master](screenshots/import_data.png)
+  - [Buat Database](screenshots/setup-awal/buat_database.png)
+  - [Informasi perusahaan](screenshots/setup-awal/info_perusahaan.png)
+  - [Aktivasi fitur](screenshots/setup-awal/fitur_diaktifkan.png)
+  - [Impor Data Master](screenshots/impor_data_awal.png)
 
 - **Transaksi Pembelian**
-  - [Permintaan Barang (PR)](screenshots/purchase_request.png)
-  - [Pemesanan Pembelian (PO)](screenshots/purchase_order.png)
+  - [Permintaan Barang (PR)](screenshots/pembelian/permintaan_barang.png)
+  - [Pemesanan Pembelian (PO)](screenshots/pembelian/po_asri_artistik.png)
+  - [
   - [Penerimaan & Faktur Pembelian](screenshots/goods_received.png)
 
 - **Transaksi Penjualan**
@@ -47,7 +50,7 @@ Berikut ini adalah bukti visual (screenshot) dari proses yang saya lakukan selam
   - [Proses Akhir Bulan](screenshots/month_end_process.png)
 
 
-- [`1-Setup Awal Sistem`](screenshots/buat_database.png)
+- [`1-Setup Awal Sistem`](screenshots/setup-awal)
 - [`2-Transaksi Pembelian`]()
 - [`3-Transaksi Penjualan`]()
 - [`4-Beban Operasional & Akhir Bulan`]()
