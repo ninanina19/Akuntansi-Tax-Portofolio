@@ -24,7 +24,7 @@ Portofolio ini merupakan dokumentasi hasil pembelajaran saya dalam menggunakan s
 
 💡 *Tip: Tekan Ctrl + klik (atau Cmd + klik di Mac) untuk membuka tautan di tab baru.*
 
-- [`1-Setup Awal Sistem`]()
+- [`1-Setup Awal Sistem`](screenshots/buat_database.png)
 - [`2-Transaksi Pembelian`]()
 - [`3-Transaksi Penjualan`]()
 - [`4-Beban Operasional & Akhir Bulan`]()
