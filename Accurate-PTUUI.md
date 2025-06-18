@@ -20,9 +20,32 @@ Portofolio ini merupakan dokumentasi hasil pembelajaran saya dalam menggunakan s
 |4.|Beban Operasional & Akhir Bulan | Mencatat beban operasional seperti listrik dan asuransi, pengakuan beban barang rusak, pengeluaran lain-lain, serta proses akhir bulan termasuk rekonsiliasi PPN.
 
 
+
 ## 📁 File dan Dokumen
 
+Berikut ini adalah bukti visual (screenshot) dari proses yang saya lakukan selama praktik di Accurate:
+
 💡 *Tip: Tekan Ctrl + klik (atau Cmd + klik di Mac) untuk membuka tautan di tab baru.*
+
+- **Setup Sistem**
+  - [Buat Database](screenshots/buat_database.png)
+  - [Impor Data Master](screenshots/import_data.png)
+
+- **Transaksi Pembelian**
+  - [Permintaan Barang (PR)](screenshots/purchase_request.png)
+  - [Pemesanan Pembelian (PO)](screenshots/purchase_order.png)
+  - [Penerimaan & Faktur Pembelian](screenshots/goods_received.png)
+
+- **Transaksi Penjualan**
+  - [Penjualan Tunai & Kredit](screenshots/sales_entry.png)
+  - [Pengiriman Barang](screenshots/delivery.png)
+  - [Penawaran & Paket Promo](screenshots/sales_promo.png)
+
+- **Beban Operasional & Proses Akhir Bulan**
+  - [Pengakuan Beban & Barang Rusak](screenshots/expense_entry.png)
+  - [Rekonsiliasi PPN & Laporan](screenshots/ppn_reconciliation.png)
+  - [Proses Akhir Bulan](screenshots/month_end_process.png)
+
 
 - [`1-Setup Awal Sistem`](screenshots/buat_database.png)
 - [`2-Transaksi Pembelian`]()
