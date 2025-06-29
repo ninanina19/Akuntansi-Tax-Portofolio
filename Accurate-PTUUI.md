@@ -2,7 +2,7 @@
 
 ## 📌 Gambaran Umum
 
-Portofolio ini merupakan dokumentasi hasil pembelajaran saya dalam menggunakan software akuntansi Accurate selama mengikuti kursus. Studi kasus yang digunakan adalah PT UUI dengan periode transaksi Januari 2025. Proyek ini mencakup proses pengaturan awal database, pencatatan transaksi harian, dan proses akhir bulan.
+Portofolio ini merupakan dokumentasi hasil pembelajaran saya dalam menggunakan software akuntansi Accurate selama mengikuti kursus. Studi kasus yang digunakan adalah PT UUI dengan periode transaksi Januari 2025. Materi kursus ini mencakup proses pengaturan awal database, pencatatan transaksi harian, dan proses akhir bulan.
 
 ## 🎯 Tujuan
 
