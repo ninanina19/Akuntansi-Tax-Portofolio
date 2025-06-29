@@ -12,7 +12,7 @@ Portofolio ini merupakan dokumentasi hasil pembelajaran saya dalam menggunakan s
 
 ## 📆 Materi & Ringkasan Pembelajaran
 
-| No.| Materi / Topik | Ringkasan / Insight |
+| No.| Materi / Topik | Ringkasan  |
 |----|---------------|---------------------|
 |1.|Setup Accurate Dasar | 	Membuat database perusahaan, mengaktifkan fitur dasar seperti penjualan, pembelian, persediaan, serta mengimpor data master: akun, barang, pelanggan, pemasok, dan aset tetap. |
 |2.|Pencatatan Transaksi Pembelian | Mencatat proses pembelian mulai dari permintaan barang, pemesanan (PO), penerimaan barang, pencatatan faktur, pembayaran utang, uang muka, retur pembelian, dan pembelian aset secara kredit. |
