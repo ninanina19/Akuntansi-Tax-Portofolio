@@ -32,7 +32,7 @@ Berikut ini adalah bukti visual (screenshot) dari proses yang saya lakukan selam
   - [02-Data-Master.png](screenshots/zahir/data_master.png)
   - [03-Saldo-Awal.png](screenshots/zahir/saldo_awal.png)
   - [04-Input-Transaksi.png](screenshots/zahir/penjualan.png)
-  - [05-Tutup-Buku.png](screenshots/zahir/tutup buku.png)
+  - [05-Tutup-Buku.png](screenshots/zahir/tutup_buku.png)
   - [06-Laporan-Keuangan.png](screenshots/zahir/laba_rugi.png)
 
 
